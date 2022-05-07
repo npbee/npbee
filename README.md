@@ -1,6 +1,6 @@
 <img src="./logo.svg" width="24px" />
 
-## 👋 Hi —
+### 👋 Hi —
 
 I'm **Nick Ball**, a web developer based out of Portland, OR. I specialize in frontend development and enjoy component-based architecture, typography, and getting the details just right.
 
