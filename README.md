@@ -1,6 +1,4 @@
-<img src="./logo.svg" width="16px" />
-
-<br />
+<img src="./logo.svg" width="24px" />
 
 ## 👋 Hi —
 
@@ -8,4 +6,4 @@ I'm **Nick Ball**, a web developer based out of Portland, OR. I specialize in fr
 
 I do a lot of coding in **React** and **TypeScipt**, but ultimately love delivering good user experiences with whatever tools I can. 
 
-I currently work at @dropbox building the [HelloWorks](https://www.hellosign.com/products/helloworks) application.
+I currently work at Dropbox building the [HelloWorks](https://www.hellosign.com/products/helloworks) application.
