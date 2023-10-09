@@ -2,8 +2,8 @@
 
 ### 👋 Hi —
 
-I'm **Nick Ball**, a web developer based out of Portland, OR. I specialize in frontend development and enjoy component-based architecture, typography, and getting the details just right.
+I'm a software engineer based in Portland, Oregon. I specialize in frontend development and enjoy component-based architecture, typography, and getting the details just right.
 
-I do a lot of coding in **React** and **TypeScript**, but ultimately love delivering good user experiences with whatever tools I can. 
+I write a lot of TypeScript and React with a dash of Svelte and Astro on the side. I love building delightful, practical, and accessible user experiences that help people get things done. 
 
-I currently work at Dropbox building the [Forms](https://www.hellosign.com/products/helloworks) application.
+I currently work as a software engineer at [Dropbox](https://dropbox.com/) building the [Forms](https://helloworks.com) application.
